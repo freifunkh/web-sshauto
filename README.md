@@ -1,6 +1,6 @@
 # ff-batch
 
-This template should help get you started developing with Vue 3 in Vite.
+This project generates commands to do bulk actions on Freifunk hotspots. Get the latest build [here](https://nightly.link/freifunkh/web-sshauto/workflows/node.js/main/dist.zip)
 
 ## Recommended IDE Setup
 
